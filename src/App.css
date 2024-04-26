@@ -1,38 +1,48 @@
-.App {
-  text-align: center;
+body {
+  background: url("https://img.freepik.com/free-photo/flat-lay-mexican-food-composition-with-copyspace_23-2148140244.jpg?t=st=1714070518~exp=1714074118~hmac=d5cc343fdb90086f77e26a2c7946f2425638845d434f6cb5a393b479649fa250&w=996");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 550px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.container {
+  width: 520px;
+  max-width: 100%;
+  margin-top: 50px;
+  padding: 20px;
+  border-radius: 10px;
+  backdrop-filter: blur(25px);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.list-group-item {
+  padding: 14px;
+  background-color: transparent;
+  color: white;
+  margin-top: 10px;
+  border-radius: 5px;
+  backdrop-filter: blur(25px);
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+lord-icon{
+  margin-bottom: -13px;
+    width: 24px;
+}
+input{
+  background: transparent;
+  width:100%;
+  padding: 8px;
+  outline:none;
+  border: 1px solid white;
   color: white;
 }
-
-.App-link {
-  color: #61dafb;
+input::placeholder{
+  color: white;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.btn-buy{
+  margin: -5px;
+}
+.boom{
+  background-color: rgba(153, 205, 50, 0.635);
+  border: none;
+  font-weight: 600;
 }
