@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/Spice-Chutney/static/css/main.a1a74fc7.css",
+    "main.css": "/Spice-Chutney/static/css/main.c06a12ca.css",
     "main.js": "/Spice-Chutney/static/js/main.4a48244a.js",
     "static/js/453.df417c26.chunk.js": "/Spice-Chutney/static/js/453.df417c26.chunk.js",
+    "static/media/bg-2.jpg": "/Spice-Chutney/static/media/bg-2.93fbd5143e303f7b6825.jpg",
     "index.html": "/Spice-Chutney/index.html",
-    "main.a1a74fc7.css.map": "/Spice-Chutney/static/css/main.a1a74fc7.css.map",
+    "main.c06a12ca.css.map": "/Spice-Chutney/static/css/main.c06a12ca.css.map",
     "main.4a48244a.js.map": "/Spice-Chutney/static/js/main.4a48244a.js.map",
     "453.df417c26.chunk.js.map": "/Spice-Chutney/static/js/453.df417c26.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1a74fc7.css",
+    "static/css/main.c06a12ca.css",
     "static/js/main.4a48244a.js"
   ]
 }
